@@ -1,0 +1,291 @@
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+c:\users\riordan\documents\visual studio 2013\Projects\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5(collision done(pretty much), movement not)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.2(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Ass1 fixing camera\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Riordan\Downloads\TWB_ass1v0.5.6(collision currently working)\TWB_ass1v0.5.2(collision currently working)\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\Die.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\HitByEnemy.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\HitEnemy.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\move.xnb
+C:\Users\james_000\Desktop\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\Shoot.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crate.png
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\textures\crosshair.png
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\Die.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\HitByEnemy.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\HitEnemy.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\move.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Audio\Shoot.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\3SNe_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Ground\Ground.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Cube.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\RE OB Zombie man_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\Zombies\zombie.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_back_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_front_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_left_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_right_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\clear_top_0.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\SkyBox\skybox.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.pdb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\Content\Models\Objects\CubeShot.xnb
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.exe.manifest
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\bin\Windows\Debug\TWB_ass1.application
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe.manifest
+C:\Users\Riordan\Downloads\TWB_ass1 v 0.62\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.application
+C:\Users\james_000\Desktop\FINALLLLLLLLLLLLL\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.exe
+C:\Users\james_000\Desktop\FINALLLLLLLLLLLLL\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.pdb
+C:\Users\james_000\Desktop\FINALLLLLLLLLLLLL\TWB_ass1\TWB_ass1\obj\x86\Debug\TWB_ass1.csprojResolveAssemblyReference.cache

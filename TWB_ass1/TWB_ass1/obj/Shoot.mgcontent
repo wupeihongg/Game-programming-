@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/TWB_ass1/TWB_ass1/Shoot.wav</SourceFile>
+  <SourceTime>2015-09-05T15:57:46+10:00</SourceTime>
+  <DestFile>H:/TWB_ass1/TWB_ass1/bin/Shoot.xnb</DestFile>
+  <DestTime>2015-09-08T16:10:13.8349922+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-30T03:14:44+10:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-30T03:14:44+10:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
